@@ -52,11 +52,16 @@ npm run dev
 
 ## Tech Stack
 
+<details>
+
 -   **Frontend:** React  
 -   **Styling:** Tailwind CSS  
 -   **Backend/Database:** Firebase  
--   **Build Tool:** Vite  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Logo" width="25" height="25">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS Logo" width="25" height="25">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v46d043083f27fa7361aea8506dabbd161e0b84f5a7c6df8d5e3cfad447dd4376/firebase/images/favicon.png" alt="Firebase Logo" width="25" height="25">
-    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite Logo" width="25" height="25">
+-   **Build Tool:** Vite
+      
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Logo" width="75" height="75">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS Logo" width="75" height="75">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v46d043083f27fa7361aea8506dabbd161e0b84f5a7c6df8d5e3cfad447dd4376/firebase/images/favicon.png" alt="Firebase Logo" width="75" height="75">
+    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite Logo" width="75" height="75">
+
+</details>
