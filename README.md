@@ -35,5 +35,17 @@ To run the web app on your local computer, clone the Repository to your local ma
 https://github.com/arsharankumar/GreenSentinel.git
 
 ```
-  
+Navigate to greensentinel directory:
+```
+cd greensentinel
+```
+Install Dependencies:
+```
+npm install
+```
+Start the server on your computer:
+```
+npm run dev
+```
+
 </details>
