@@ -19,7 +19,7 @@ Upon receiving a complaint, regional forest authorities can access detailed repo
 
 <details>
   
-Thw web app is already deployed. Just click the link below to visit:
+The web app is already deployed. Just click the link below to visit:
 ```  
 https://greensentinel-70472.web.app/
 ```
