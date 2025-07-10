@@ -16,7 +16,24 @@ Upon receiving a complaint, regional forest authorities can access detailed repo
 
 ## Getting Started
 ### Quick Start
+
+<details>
+  
 Thw web app is already deployed. Just click the link below to visit:
+```  
+https://greensentinel-70472.web.app/
 ```
+  
+</details>
+
+### Running Locally
+
+<details>
+
+To run the web app on your local computer, clone the Repository to your local machine:
+```
+https://github.com/arsharankumar/GreenSentinel.git
 
 ```
+  
+</details>
