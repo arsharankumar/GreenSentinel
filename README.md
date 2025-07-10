@@ -49,3 +49,10 @@ npm run dev
 ```
 
 </details>
+
+## Tech Stack
+
+-   **Frontend:** React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Logo" width="25" height="25">
+-   **Styling:** Tailwind CSS <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS Logo" width="25" height="25">
+-   **Backend/Database:** Firebase <img src="https://www.gstatic.com/devrel-devsite/prod/vc3d1f04cf8a7ff2a3cf2d02c46274b77f88421bb461e7041a12d1b54a20b7548/firebase/images/touchicon-180.png" alt="Firebase Logo" width="25" height="25">
+-   **Build Tool:** Vite <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vitejs-logo.svg/512px-Vitejs-logo.svg.png" alt="Vite Logo" width="25" height="25">
