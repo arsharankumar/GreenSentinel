@@ -37,7 +37,7 @@ git clone https://github.com/arsharankumar/GreenSentinel.git
 ```
 Navigate to greensentinel directory:
 ```
-cd greensentinel
+cd GreenSentinel
 ```
 Install Dependencies:
 ```
