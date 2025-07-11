@@ -32,7 +32,7 @@ https://greensentinel-70472.web.app/
 
 To run the web app on your local computer, clone the Repository to your local machine:
 ```
-https://github.com/arsharankumar/GreenSentinel.git
+git clone https://github.com/arsharankumar/GreenSentinel.git
 
 ```
 Navigate to greensentinel directory:
